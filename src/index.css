@@ -318,3 +318,8 @@ input[type='color'] {
 .color-light .percent-value {
   color: var(--white);
 }
+
+.color-input{
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
